@@ -1,7 +1,7 @@
-base     starterbootstrap
-author   Cameron Little
-email    cameron@camlittle.com
-date     2014-08-07
-name     Starter Bootstrap
-desc     Bootstrap based Docuwiki template. http://camlitle.com/dokuwiki
-url      http://github.com/wwu-housing/starter-bootstrap
+base     bootswatched
+author   Adam Stokes
+email    adam.stokes@gmail.com
+date     2015-09-18
+name     Bootswatch Theme
+desc     Bootswatch based Docuwiki template
+url      http://github.com/battlemidget/bootswatch-dokuwiki
